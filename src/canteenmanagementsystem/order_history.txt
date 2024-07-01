@@ -1,0 +1,7 @@
+Coffee: 1, Noodles: 1, ,40,80
+Pudding: 1, ,40,40
+Pizza: 1, Sandwich: 1, ,75,150
+Chicken fry: 1, Coffee: 1, ,55,110
+Chicken fry: 1, Coffee: 1, ,55,110
+Chicken fry: 1, Coffee: 1, ,55,110
+Pizza: 1, Sandwich: 1, ,75,150

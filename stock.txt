@@ -1,0 +1,13 @@
+CocaCola,7
+Chicken Roll,20
+Cake,25
+Chicken fry,90
+Coffee,20
+Burger,50
+Pizza,30
+Sandwich,50
+Fried Rice,140
+Tea,10
+Pudding,30
+Pasta,120
+Noodles,40
