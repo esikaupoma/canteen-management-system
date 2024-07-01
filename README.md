@@ -9,6 +9,7 @@ The Canteen Management System is a Java Swing application designed to streamline
 
 1. **Welcome Page**
    - Provides an interface for login and viewing admin accounts.
+    ![main](https://github.com/esikaupoma/canteen-management-system/assets/126023004/34d7c327-ede8-40fb-b59a-0830b3d67db8)
 
 2. **Login Page**
    - Allows admins to securely log into the system.
